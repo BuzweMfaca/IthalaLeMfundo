@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitHubOrganization": "BuzweMfaca",
+    "baseName": "IthalaLemfundo",
+    "packageName": "za.co.ithalalemfundo",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "enableSocialSignIn": true,
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "ca"
+    ],
+    "clientFramework": "angularX",
+    "jhipsterVersion": "4.11.1",
+    "packageFolder": "za/co/ithalalemfundo",
+    "jwtSecretKey": "2544f512d0b68e83fd56559fcdff9bfe2d827918",
+    "jhiPrefix": "jhi"
+  }
+}
